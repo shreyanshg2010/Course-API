@@ -1,2 +1,2 @@
 # Course-API
-Create a course API using Java and Spring Boot
+Implementation of Course API using Java and Spring Boot
